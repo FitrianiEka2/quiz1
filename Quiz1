@@ -1,0 +1,12 @@
+
+public class Quiz1 {
+	//1. When a class 
+		//2. If you create 5 objects of a class, then how many time constructors will be called? 
+		//3. When you write a constructor, what return type do you write in constructor declaration? 
+		//4. Why do you use constructor?
+		//=============================================================================================
+		//1.	The constructor gets called when a new object is created.
+		//2.	Only one.
+		//3.	There are no “return value” statements in constructor, but constructor returns current class instance. We can write 'return' inside a constructor. Like methods, we can overload constructors for creating objects in different ways.
+		//4.	The purpose of constructor is to initialize the object of a class while the purpose of a method is to perform a task by executing java code.
+}
